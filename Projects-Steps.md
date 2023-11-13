@@ -4,3 +4,7 @@
 
 After successful login, you should have a page like this:
 ![Azure Portal home page](azure_portal_homepage.png)
+
+2. Create a Resource Group that the VM will belong
+   Click on Resource Group icon
+   ![Resource Group](resource_group.png)
