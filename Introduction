@@ -1,1 +1,7 @@
+A small business that provides IT services has a number of systems hosted on Microsoft Azure. The backend systems are hosted on Azure virtual machines, and they need to be securely configured and protected from threats.
+
+You have been hired as a security engineer to put together a testing environment using the many different Microsoft security services. This testing environment will form the basis for how production VMs will be protected in the future for this IT services provider.
+
+Your employer would like you to setup protection for a virtual machine in Azure using JIT, Azure Bastion, and Azure Standard Firewall. Once this has been setup, they would also like you to configure Microsoft Sentinel to monitor the testing environment before it is deployed on the production network.
+
 
