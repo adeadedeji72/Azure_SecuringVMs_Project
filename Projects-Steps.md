@@ -8,3 +8,5 @@ After successful login, you should have a page like this:
 2. Create a Resource Group that the VM will belong
    Click on Resource Group icon
    ![Resource Group](resource_group.png)
+   Provide Resource Group name and create it
+   ![](create-resourcegroup.png)
