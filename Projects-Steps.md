@@ -28,3 +28,6 @@ After a successful login, you should have a page like this:
    ![](vm_basic_config.png)
 
    Cycle through all the tabs (Disk, Networking, etc.) to complete the VM configuration
+   You will need to create vnet and IP address subnet to be used on the vnet
+   ![](vnet_ipaddress.png)
+   
