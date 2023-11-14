@@ -26,4 +26,5 @@ After a successful login, you should have a page like this:
    Complete the Basic tab of the Virtual Machine configuration according to your requirements
 
    ![](vm_basic_config.png)
-   
+
+   Cycle through all the tabs (Disk, Networking, etc.) to complete the VM configuration
