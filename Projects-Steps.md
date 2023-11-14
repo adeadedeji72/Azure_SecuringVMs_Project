@@ -10,3 +10,8 @@ After successful login, you should have a page like this:
    ![Resource Group](resource_group.png)
    Provide Resource Group name and create it
    ![](create-resourcegroup.png)
+
+3. Create a Virtual Machine
+   Login into Azure Portal
+   Select Create a Resource
+   ![](create-resource.png)
