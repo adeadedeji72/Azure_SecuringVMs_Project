@@ -74,6 +74,10 @@ After a successful login, you should have a page like this:
    Click on Create firewall tab
 
    ![](create_firewall.png)
+
+   Supply required details of the Firewall
+
+   ![](firewall_config.png)
    
 
    
