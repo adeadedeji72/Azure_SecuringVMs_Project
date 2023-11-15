@@ -43,4 +43,11 @@ After a successful login, you should have a page like this:
    Create a resource group named Services_Security
 
    ![](resource_grp2.png)
+
+   Now, create the Vnet
+   Click create resource tab and search for Virtual Networks service, then create
+   
+   ![](virt_netw.png)
+
+   
    
