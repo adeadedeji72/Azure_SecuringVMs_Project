@@ -63,6 +63,10 @@ After a successful login, you should have a page like this:
    Click on +Add on the Peering page to add a new VNet Peer
 
    ![](vnet_peering_config.png)
+
+   Completed VNet looks like this:
+
+   ![](peering_completed.png)
    
    
    
