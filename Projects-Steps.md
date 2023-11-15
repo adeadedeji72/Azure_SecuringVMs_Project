@@ -5,13 +5,13 @@
 After a successful login, you should have a page like this:
 ![Azure Portal home page](azure_portal_homepage.png)
 
-2. Create a Resource Group to which the VM will belong
+2. **Create a Resource Group to which the VM will belong**
    Click on Resource Group icon
    ![Resource Group](resource_group.png)
    Provide the Resource Group name and create it
    ![](create-resourcegroup.png)
 
-3. Create a Virtual Machine
+3. **Create a Virtual Machine**
    Login to the Azure Portal
    Select Create a Resource
    ![](create-resource.png)
@@ -36,7 +36,7 @@ After a successful login, you should have a page like this:
 
    ![](vm_dep_complete.png)
 
-4. Create a Hub network with VNet peering
+4. **Create a Hub network with VNet peering**
    Create a hub network with VNet peering to the Service_Test_Network, all inside a new resource group, ready for an Azure Standard Firewall deployment.
    To complete this task, we will create a Resource Group, a Hub Vnet, a subnet
 
@@ -51,6 +51,15 @@ After a successful login, you should have a page like this:
 
    ![](virt_netwip.png)
 
+
+   **VNet Peering**
+
+   Select Virtual Networks
+   Select "Services_Hub" virtual network
+   Select "Peering" tab
+
+   ![](vnet_peering.png)
+   
    
 
    
