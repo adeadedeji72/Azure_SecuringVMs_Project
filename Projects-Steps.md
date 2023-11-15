@@ -32,3 +32,15 @@ After a successful login, you should have a page like this:
    ![](vnet_ipaddress.png)
    
    Click Create to create the Virtual Machine
+   Wait until deployment is complete. May take some time.
+
+   ![](vm_dep_complete.png)
+
+4. Create a Hub network with VNet peering
+   Create a hub network with VNet peering to the Service_Test_Network, all inside a new resource group, ready for an Azure Standard Firewall deployment.
+   To complete this task, we will create a Resource Group, a Hub Vnet, a subnet
+
+   Create a resource group named Services_Security
+
+   ![](resource_grp2.png)
+   
