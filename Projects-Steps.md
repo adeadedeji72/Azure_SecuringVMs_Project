@@ -52,7 +52,7 @@ After a successful login, you should have a page like this:
    ![](virt_netwip.png)
 
 
-   **VNet Peering**
+5. **VNet Peering**
 
    Select Virtual Networks
    Select "Services_Hub" virtual network
@@ -67,6 +67,15 @@ After a successful login, you should have a page like this:
    Completed VNet looks like this:
 
    ![](peering_completed.png)
+
+6. **Azure Standard Firewall deployment**
+
+   From the Azure Portal home, search for Firewall
+   Click on Create firewall tab
+
+   ![](create_firewall.png)
+   
+
    
    
    
